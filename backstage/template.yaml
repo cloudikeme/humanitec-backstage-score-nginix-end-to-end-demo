@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: 5min-nginx-service-template
   title: 5min IDP - NGINX Service Template
-  description: An example template that creates a simple Hello World service
+  description: An example template that creates an NGINX simple Hello World service
   tags:
     - score
     - humanitec
