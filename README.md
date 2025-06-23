@@ -102,5 +102,7 @@ test deployment
 
 view on humanitec and gitea and backstage to see if all successful
 
+confirm deployment on terminal using: 
 
+humctl
 

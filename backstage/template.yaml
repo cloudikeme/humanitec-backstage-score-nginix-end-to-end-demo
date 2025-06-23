@@ -1,8 +1,8 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: 5min-nginx-service-template
-  title: 5min IDP - NGINX Service Template
+  name: ikeme-nginx-service-template
+  title: Ikeme NGINX Service Template
   description: An example template that creates an NGINX simple Hello World service
   tags:
     - score
